@@ -12,3 +12,4 @@ Code and data for sensitivity calculation of GWPs for the paper: "Sensitivity of
 
 The code here is based on the [notebook](https://github.com/ciceroOslo/Hydrogen_GWP/) and method of [Sand et al. 2024](https://www.nature.com/articles/s43247-023-00857-8). 
 
+[![DOI](https://zenodo.org/badge/800880930.svg)](https://doi.org/10.5281/zenodo.14823342)
